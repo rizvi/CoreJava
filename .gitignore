@@ -1,0 +1,17 @@
+# general
+*~
+*.log
+tmp
+dump
+*.swp
+*.swo
+*.DS_Store
+target
+test-output
+ 
+# Eclipse
+.settings
+.cache
+.project
+.classpath
+bin
