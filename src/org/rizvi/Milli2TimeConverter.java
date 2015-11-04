@@ -1,6 +1,5 @@
 package org.rizvi;
 
-import java.util.Calendar;
 import java.util.concurrent.TimeUnit;
 
 public class Milli2TimeConverter {
